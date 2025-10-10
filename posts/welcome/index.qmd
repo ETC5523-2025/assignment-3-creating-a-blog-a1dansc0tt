@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Delta Variant and Quarantine"
+title: "COVID-19 Delta Variant and Quarantine in Australia"
 author: "Aidan Scott"
 date: "2025-10-10"
 categories: [news]
@@ -26,6 +26,7 @@ The results and figures shown in this post are referencing Zacherson et al. 2022
 
 Figure 1: Relative outbreak potential depending on vaccine efficacy, coverage and reproduction rate from simulated quarantine breach events. 
 
+
 It was found that outbreak potential (βtot/baseline) is heavily dependent on vaccine efficacy (VE) and the rate of reproduction of the virus (R0). As we can see in Figure 1, the risk of outbreak potential is quite high until vaccination rates of between 70 and 80 percent are achieved. After which the likelihood of an outbreak drops significantly (a phenomenon known as heard immunity).
 
 In Figure 1 the blue dotted box represents the baseline situation (before Delta strain). This baseline situation uses a level of vaccination and reproductive rate consistent with conditions in Australia and New Zealand at the time (Grout et al., 2021). The green dotted box represents situations relate to quarantine pathways that were vaccinated before the existence of Delta strain. The yellow dotted box represents a range of possible scenarios after the emergence of the Delta variant. This box in Figure 1 shows that unless levels of vaccination are extremely high, outbreaks in instances of the Delta variant are still likely.
@@ -34,6 +35,7 @@ Below we see the expected amount of days until the probability of outbreak into 
 
 ![](table1.jpg)
 Table 1: Time until probability of outbreak reaches 50 percent.
+
 
 Please note the reproductive rate here is chosen to be 6 as this is near the average reproductive rate estimated by Zacherson and others for the Delta strain. From this table we can see that the larger the proportion of the population that is vaccinated the lower the risk of an outbreak in a given amount of time. However, maybe more important is the vaccine efficacy, which represents the level of effectiveness of the vaccination. For greater values of this the time taken to reach a 50 percent probability of outbreak is significantly higher. 
 
