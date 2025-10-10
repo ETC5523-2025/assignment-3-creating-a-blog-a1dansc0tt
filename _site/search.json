@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 Blog Assessment",
     "section": "",
-    "text": "Test commit"
+    "text": "Welcome To My Blog Template\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2025\n\n\nEmi Tanaka\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -14,10 +14,10 @@
     "text": "This is the first post in a Quarto blog. Welcome! Test"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ETC5523 Blog Assessment",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Welcome To My Blog Template\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 18, 2022\n\n\nEmi Tanaka\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello, my name is Aidan Scott. I’m currently a student at Monash University finishing my Masters of Actuarial Studies. I possess highly technical skills in areas of mathematics such as probability and statistics. Specifically, relating to factors influencing insurance product pricing and calculations of relating to reserving in insurance companies. Other areas of academics that I like to learn about include areas of physics, especially the theoretical side involving black holes and all things quantum.\nWhen I’m not crunching numbers I enjoy some of my many hobbies. I love playing and watching basketball as well as Aussie rules footy, where I support Boston Celtics and Carlton respectively. Other things I enjoy are the gym, running, and spending time with family and friends.\nI also run a business called EASYAS PI TUTORING which is an academic private tutoring services business. I’m a co-founder and head tutor of the business and have been working in this area for over 5 years."
   }
 ]

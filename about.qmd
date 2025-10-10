@@ -6,8 +6,18 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
+      href: https://github.com/a1dansc0tt
+    - icon: mail
+      text: Email
+      href: mailto:scottaidan0403@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aidan-scott-64b237307/
 
 ---
 
-Test commit
+Hello, my name is Aidan Scott. I'm currently a student at Monash University finishing my Masters of Actuarial Studies. I possess highly technical skills in areas of mathematics such as probability and statistics. Specifically, relating to factors influencing insurance product pricing and calculations of relating to reserving in insurance companies. Other areas of academics that I like to learn about include areas of physics, especially the theoretical side involving black holes and all things quantum. 
+
+When I'm not crunching numbers I enjoy some of my many hobbies. I love playing and watching basketball as well as Aussie rules footy, where I support Boston Celtics and Carlton respectively. Other things I enjoy are the gym, running, and spending time with family and friends. 
+
+I also run a business called EASYAS PI TUTORING which is an academic private tutoring services business. I'm a co-founder and head tutor of the business and have been working in this area for over 5 years. 
