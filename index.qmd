@@ -1,5 +1,5 @@
 ---
-title: "ETC5523 Blog Assessment"
+title: "ETC5523 Blog Assessment - Aidan Scott"
 listing:
   contents: posts
   sort: "date desc"
